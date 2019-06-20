@@ -4,7 +4,7 @@ call vim with filetered yamllint in additional terminal
 ## contains submodule(s)
 to clone with submodules: 
 
-git clone --recurse-submodules 
+`git clone --recurse-submodules `
 
 ## List of contained submodules
  * https://github.com/matschi-klickme/yamllint_filtered
