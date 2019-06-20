@@ -6,7 +6,7 @@ to clone with submodules:
 
 git clone --recurse-submodules 
 
-## list of contained submodules
+## List of contained submodules
  * https://github.com/matschi-klickme/yamllint_filtered
 
 
